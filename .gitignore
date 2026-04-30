@@ -1,0 +1,6 @@
+tfenv/
+.vscode/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
